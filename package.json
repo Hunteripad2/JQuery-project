@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "jquery": "^3.5.1"
+    },
+    "prettier": {
+        "tabWidth": 4,
+        "printWidth": 300
+    }
+}

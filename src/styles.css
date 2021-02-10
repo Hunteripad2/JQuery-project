@@ -1,0 +1,14 @@
+body {
+    background-color: dimgrey;
+    color: white;
+    font-size: 30px;
+}
+
+.todo_list {
+    list-style: none;
+}
+
+.checked_item {
+    text-decoration-line: line-through;
+    text-decoration-color: black;
+}
